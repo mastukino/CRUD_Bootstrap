@@ -11,11 +11,11 @@ Aplikasi Ini Merupakan Implementasi CRUD Sederhana Yang Di Dalamnya Terdapat Men
 
 ### Prerequisites
 Software yang dibutuhkan untuk mempelajari project ini:
-* [Xampp](http://bit.ly/3ruSKNR) - Local server software
-* [Visual Studio Code](http://bit.ly/3a0ghjF) - Text editor software
-* [Sublime Text](http://bit.ly/2N857Ai) - Text editor software
-* [Notepad++](http://bit.ly/3q09YlW) - Text editor software
-* [Bootsrap 4](https://getbootstrap.com/docs/4.1/getting-started/download/) - Digunakan untuk template tampilan
+* [Xampp](http://bit.ly/3ruSKNR) - Local Server Software
+* [Visual Studio Code](http://bit.ly/3a0ghjF) - Text Editor Software
+* [Sublime Text](http://bit.ly/2N857Ai) - Text Editor Software
+* [Notepad++](http://bit.ly/3q09YlW) - Text Editor Software
+* [Bootsrap 4](https://getbootstrap.com/docs/4.1/getting-started/download/) - Digunakan Untuk Template Tampilan
 
 ### Installing
 
