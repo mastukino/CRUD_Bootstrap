@@ -1,14 +1,13 @@
-# PHP/MySQLi CRUD Operation Using Bootstrap 4
-# Aplikasi Perekaman Data User
+# PHP/MySQLi CRUD Operation Using Bootstrap 4 (Studi Kasus Aplikasi Perekaman Data User)
 
-Membuat Aplikasi CRUD + Bootstrap
+Membuat Aplikasi CRUD + Bootstrap 4
 * PHP 7.1 
 * HTML 5 
 * CSS 3 
 * Bootstrap 4
 
 ## Getting Started
-Aplikasi ini merupakan implementasi CRUD sederhana yang di dalamnya terdapat menu untuk create data, read data, update data dan delete data. Sebagai penyimpanan data menggunakan database MySQL. Sebagai studi kasus yang digunakan adalah data user. Untuk tampilannya menggunakan template bootstrap. Aplikasi ini responsive untuk semua platform baik desktop, tablet maupun mobile.
+Aplikasi Ini Merupakan Implementasi CRUD Sederhana Yang Di Dalamnya Terdapat Menu Untuk Create Data, Read Data, Update Data dan Delete Data. Sebagai Penyimpanan Data Menggunakan Database MySQL. Sebagai Studi Kasus Yang Digunakan Adalah Data User. Untuk Tampilannya Menggunakan Template Bootstrap. Aplikasi Ini Responsive Untuk Semua Platform Baik Desktop, Tablet Maupun Mobile.
 
 ### Prerequisites
 Software yang dibutuhkan untuk mempelajari project ini:
